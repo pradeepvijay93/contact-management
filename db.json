@@ -1,0 +1,9 @@
+{
+    "employees":{
+        "id": 1,
+        "first_name":" vijay",
+        "last_name":"pradeep",
+        "email": "pradeep10@gmail.com"
+
+    }
+}
