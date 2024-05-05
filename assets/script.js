@@ -1,4 +1,4 @@
-const fname = document.getElementById('fname')
+const firstname = document.querySelector('.fname')
 const lname = document.getElementById('lname')
 const number = document.getElementById('mobnum')
 const email = document.getElementById('mail')
